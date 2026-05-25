@@ -35,6 +35,12 @@ htmlcov/
 # Logs and local databases
 *.log
 *.sqlite3
+.env
+.env.*
+!.env.example
+!.env.openai.example
+!.env.moonshot.example
+!.env.deepseek.example
 
 # IDE and editor files
 .idea/

@@ -1,5 +1,25 @@
 # AI通识简述
 
+
+---
+
+
+<!-- TOC -->
+* [AI通识简述](#ai通识简述)
+  * [发展编年史](#发展编年史)
+  * [核心概念](#核心概念)
+    * [人工智能（AI）](#人工智能ai)
+    * [机器学习（Machine Learning）](#机器学习machine-learning)
+    * [深度学习（Deep Learning）](#深度学习deep-learning)
+    * [神经网络（Neural Network）](#神经网络neural-network)
+    * [大模型（Large Language Model）](#大模型large-language-model)
+    * [大语言模型（Large Language Model）](#大语言模型large-language-model)
+    * [生成式 AI（Generative AI，AIGC）](#生成式-aigenerative-aiaigc)
+    * [多模态 AI（Multimodal AI）](#多模态-aimultimodal-ai)
+  * [术语词典](#术语词典)
+<!-- TOC -->
+
+
 ---
 
 
@@ -16,7 +36,9 @@
 - **生成式 AI 爆发：从 “识别世界” 到 “生成世界”（2022–2023）**： 从辅助识别进一步走向辅助创作、辅助决策和辅助开发。
 - **多模态与 Agent 发展：AI 从单轮回答走向可执行系统（2024–至今）**：多模态模型的发展，让 AI 从只处理文本扩展到真正理解复杂生产资料；而 Agent 化的发展，则让 AI 从 “回答问题” 走向 “完成任务”。
 
+
 ---
+
 
 ## 核心概念
 ### 人工智能（AI）
@@ -97,7 +119,9 @@
 
 <img src="../screenshots/ai_brief.jpeg" alt="多模态 AI" style="max-width: 60%; height: auto;">
 
+
 ---
+
 
 ## 术语词典
 - **AI**：总称，目标是让机器表现出智能行为。
@@ -142,3 +166,6 @@
 <br><br>
 - **Agent**：让模型不只回答，还能拆任务、调工具、执行流程。
 - **Harness**：包裹在 Agent 外层的控制系统，通过任务拆解、上下文管理、状态持久化等机制确保智能体稳定可靠运行。
+
+
+---
