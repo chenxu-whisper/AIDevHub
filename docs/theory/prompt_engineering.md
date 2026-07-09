@@ -230,3 +230,9 @@ if __name__ == "__main__":
 ## 防攻击/泄露
 - [- 提示词破解：绕过 ChatGPT 的安全审查](https://selfboot.cn/2023/07/28/chatgpt_hacking/)
 - [- ChatGPT安全风险 | 基于LLMs应用的Prompt注入攻击](https://www.freebuf.com/articles/network/365585.html)
+
+
+---
+
+
+## [示例代码](../../examples/eg_prompt_basic.py)
